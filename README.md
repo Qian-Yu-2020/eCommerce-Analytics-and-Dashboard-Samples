@@ -1,4 +1,4 @@
-### Analysizing Samples of Three Tableau Dashboard includeds as below, which are 
+### Analyzing Samples of Three Tableau Dashboard includeds as below, which are 
 - Customer Purchase Behavior - Time (DIY Clock)
 - Web Traffic Referrer Dimension - Page Paths
 
@@ -18,7 +18,7 @@ Interactive and experience the full feature, please visit at Tableau Public: htt
 - Yes. Compare the two patterns below, each transaction of returning customers has more uniform distribution in amount; while new customers tend to barely make large amount transaction 
 - It could be due to two main reasons: weather the new customers 'trust' our website and service; weather there is lack of marketing and exposuring for expensive single transactions 
 
-<img src="Sample%20Pictures%20for%20DIY%20Clock%20Dashboard/DIY%20Clock%20-%20Big%20Amount%20-%20New%20Customers%20Pattern.png" width="470" ><img src="Sample%20Pictures%20for%20DIY%20Clock%20Dashboard/DIY%20Clock%20-%20Big%20Amount%20-%20Returning%20Customers%20Pattern.png" width="470" >
+<img src="Sample%20Pictures%20for%20DIY%20Clock%20Dashboard/DIY%20Clock%20-%20Big%20Amount%20-%20New%20Customers%20Pattern.png" width="450" ><img src="Sample%20Pictures%20for%20DIY%20Clock%20Dashboard/DIY%20Clock%20-%20Big%20Amount%20-%20Returning%20Customers%20Pattern.png" width="450" >
 
 # Web Traffic Referrer Dimension - Page Paths
 ![](Sample%20Pictures%20for%20Referrer%20and%20Page%20Paths%20/Referrer%20-%20Screenshot.png)
