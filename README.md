@@ -23,4 +23,15 @@ Interactive and experience the full feature, please visit at Tableau Public: htt
 # Web Traffic Referrer Dimension - Page Paths
 ![](Sample%20Pictures%20for%20Referrer%20and%20Page%20Paths%20/Referrer%20-%20Screenshot.png)
 
+### What is the Email Referrer Contribute?
+- The most of email referrer contribute pages are Killington, instead of Pats Peak 
 ![](Sample%20Pictures%20for%20Referrer%20and%20Page%20Paths%20/Referrer%20Filter%20-%20Email.gif)
+
+
+<img src="Sample%20Pictures%20for%20Referrer%20and%20Page%20Paths%20/Referrer%20Filter%20-Direct.png" width="700" >
+
+
+<img src="Sample%20Pictures%20for%20Referrer%20and%20Page%20Paths%20/Referrer%20Filter%20-Direct.png" width="700" >
+
+
+<img src="Sample%20Pictures%20for%20Referrer%20and%20Page%20Paths%20/Referrer%20Filter%20-Direct.png" width="700" >
