@@ -1,3 +1,7 @@
+# Common SQL code
+
+
+
 ### Analyzing Samples of Three Tableau Dashboard includeds as below, which are 
 - Customer Purchase Behavior - Time (DIY Clock)
 - Web Traffic Referrer Dimension - Page Paths
