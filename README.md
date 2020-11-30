@@ -33,7 +33,9 @@ After compare the two patterns, the transactions of returning customers has more
 
 It could be due to two main reasons: weather the new customers 'trust' our website and service; weather there is lack of marketing and exposuring for expensive single transactions 
 
-Self-service Dashboard for exploring more insights: [Customer Purchase Behavior - Time (DIY Clock)](https://public.tableau.com/profile/qianyu.career/#!/vizhome/CustomerPurchaseBehavior-TimeDIYClock/CustomerBehaviorAnalysis)
+Self-service Dashboard for exploring more insights: 
+
+[Customer Purchase Behavior - Time (DIY Clock)](https://public.tableau.com/profile/qianyu.career/#!/vizhome/CustomerPurchaseBehavior-TimeDIYClock/CustomerBehaviorAnalysis)
 
 
 # Web Traffic Referrer Dimension - Page Paths
