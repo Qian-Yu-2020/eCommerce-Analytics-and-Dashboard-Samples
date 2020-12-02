@@ -42,7 +42,11 @@ Self-service Dashboard for exploring more insights:
 
 #### What is the Email Referrer Contribute?
 
+
 ![](Sample%20Pictures%20for%20Referrer%20and%20Page%20Paths%20/Referrer%201.gif)
+
+
+
 
 
 ![](Sample%20Pictures%20for%20Referrer%20and%20Page%20Paths%20/Referrer%202.gif)
