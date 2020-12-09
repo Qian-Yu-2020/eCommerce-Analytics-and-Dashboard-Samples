@@ -1,16 +1,3 @@
-# Dear interviewer, the updated version of case study is here:
-View in pdf:
-[Staples YOY Performance](https://github.com/Qian-Yu-2020/eCommerce-Analytics-and-Dashboard-Samples/blob/master/Staples%20YOY%20Performance(Qian%20Yu).pdf)
-
-View in dashboard:
-[eCommercial Sales YOY Comparison and Funnel Conversion Rate](https://public.tableau.com/profile/qianyu.career#!/vizhome/eCommercialSalesYOYComparisonandFunnelConversionRate/ConversionFunnelYOY)
-
-
-
-
-
-
-
 
 
 # My Tableau Showcase
